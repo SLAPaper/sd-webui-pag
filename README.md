@@ -4,7 +4,7 @@ simplified version of original repo to only contain the PAG algorithm
 
 ## COMPATIBILITY NOTICE
 
-For [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) and [ComfyUI](github.com/comfyanonymous/ComfyUI), checkout [github.com/pamparamm/sd-perturbed-attention](github.com/pamparamm/sd-perturbed-attention)
+For [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) and [ComfyUI](github.com/comfyanonymous/ComfyUI), checkout [sd-perturbed-attention](https://github.com/pamparamm/sd-perturbed-attention)
 
 ---
 
